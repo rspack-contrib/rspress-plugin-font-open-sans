@@ -6,7 +6,7 @@ export const pluginFontOpenSans = (): RspressPlugin => {
     name: 'plugin-font-open-sans',
     builderConfig: {
       source: {
-        preEntry: [path.join(__dirname, '..', 'open-sans.css')],
+        preEntry: [path.join(__dirname, '..', 'static', 'open-sans.css')],
       },
       performance: {
         // Preload fonts to avoid flickering caused by fonts swap
