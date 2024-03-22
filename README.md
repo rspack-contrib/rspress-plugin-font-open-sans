@@ -9,6 +9,14 @@ Use Open Sans as the default font in your Rspress website.
     <img src="https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square&colorA=564341&colorB=EDED91" alt="license" />
 </p>
 
+## About
+
+Open Sans is a humanist sans serif typeface designed by Steve Matteson, Type Director of Ascender Corp.
+
+See [Google Fonts - Open Sans](https://fonts.google.com/specimen/Open+Sans/about)
+
+![image](https://github.com/rspack-contrib/rspress-plugin-font-open-sans/assets/7237365/de552371-5aab-4deb-b2fa-f7a66fff6706)
+
 ## Usage
 
 Install:
