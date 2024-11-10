@@ -21,7 +21,8 @@
   "scripts": {
     "build": "tsup",
     "dev": "tsup --watch",
-    "prepublishOnly": "npm run build"
+    "prepublishOnly": "npm run build",
+    "bump": "npx bumpp"
   },
   "devDependencies": {
     "@rspress/shared": "^1.35.4",
