@@ -25,11 +25,11 @@
     "bump": "npx bumpp"
   },
   "devDependencies": {
-    "@rspress/shared": "^1.40.2",
-    "@rslib/core": "^0.4.0",
-    "@types/node": "^22.13.0",
-    "prettier": "^3.4.2",
-    "typescript": "^5.7.3"
+    "@rspress/shared": "^1.42.1",
+    "@rslib/core": "^0.5.2",
+    "@types/node": "^22.13.8",
+    "prettier": "^3.5.2",
+    "typescript": "^5.8.2"
   },
   "packageManager": "pnpm@10.5.2",
   "publishConfig": {
