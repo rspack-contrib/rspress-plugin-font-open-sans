@@ -25,13 +25,13 @@
     "bump": "npx bumpp"
   },
   "devDependencies": {
-    "@rspress/shared": "^1.43.12",
-    "@rslib/core": "^0.6.8",
-    "@types/node": "^22.15.3",
+    "@rspress/shared": "^1.44.0",
+    "@rslib/core": "^0.9.1",
+    "@types/node": "^22.15.29",
     "prettier": "^3.5.3",
     "typescript": "^5.8.3"
   },
-  "packageManager": "pnpm@10.10.0",
+  "packageManager": "pnpm@10.11.0",
   "publishConfig": {
     "access": "public",
     "registry": "https://registry.npmjs.org/"
